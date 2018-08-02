@@ -1,8 +1,5 @@
 #####################################################################################
 #                                                                                   #
-# Created by: Insight                                                               #
-# Date: 30/07/2018                                                                  #
-#                                                                                   #
 # Before you start, ensure that the MSOL PowerShell module is installed.            #
 # If not, run install-module msol                                                   #
 # You will need to be running powershell via the run as administrator option        #
@@ -23,7 +20,7 @@ $CSVPath = '~\Desktop\users.csv'
 # Get the SKU's that are currently subscribed to on the tennant
 Get-MsolAccountSku
 
-$SKUTo = Read-Host -Prompt "Enter the SKU you wish to Enable"
+$SKUTo = Read-Host -Prompt "Enter the SKU you wish to enable"
 $SKUFrom = Read-Host -Prompt "Enter the SKU you wish to disable"
 
 # Show the licenseoptions for the SKU you are changing to
