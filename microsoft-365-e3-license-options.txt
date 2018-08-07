@@ -1,0 +1,25 @@
+ADALLOM_S_DISCOVERY   Cloud App Security Discovery
+BPOS_S_TODO_2         Todo
+FLOW_O365_P2          Flow
+POWERAPPS_O365_P2     PowerApps
+FORMS_PLAN_E3         Forms
+STREAM_O365_E3        Stresm
+Deskless              StaffHub
+TEAMS1                Teams
+WIN10_PRO_ENT_SUB     Windows 10 Enterprise
+RMS_S_PREMIUM         Azure Information Protection
+MFA_PREMIUM           Azure Multi-Factor Authentication
+INTUNE_A              Intune
+AAD_PREMIUM           Azure AD Premium
+YAMMER_ENTERPRISE     Yammer
+SWAY                  Sway
+SHAREPOINTWAC         Office Online
+SHAREPOINTENTERPRISE  SharePoint Online
+RMS_S_ENTERPRISE      Azure Rights Management
+PROJECTWORKMANAGEMENT Planner
+OFFICESUBSCRIPTION    Office 365 ProPlus
+MCOSTANDARD           Skype
+INTUNE_O365           Built in O365 MDM
+EXCHANGE_S_ENTERPRISE Exchange Online
+
+ADALLOM_S_DISCOVERY,FLOW_O365_P2,POWERAPPS_O365_P2,FORMS_PLAN_E3,STREAM_O365_E3,Deskless,TEAMS1,WIN10_PRO_ENT_SUB,RMS_S_PREMIUM,MFA_PREMIUM,INTUNE_A,AAD_PREMIUM,YAMMER_ENTERPRISE,SWAY,PROJECTWORKMANAGEMENT
