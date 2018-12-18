@@ -1,1 +1,1 @@
-# office-365-powershell
+# powershell
